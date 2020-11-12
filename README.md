@@ -1,4 +1,4 @@
-# Formation Vue.js
+# Vue.js Training
 
 Support de formation disponible ici: [https://worldline.github.io/vuejs-training](https://worldline.github.io/vuejs-training)
 
